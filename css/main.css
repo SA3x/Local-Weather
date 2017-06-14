@@ -1,0 +1,24 @@
+* {
+	color: white;
+	font-weight: bold;
+}
+
+body {
+	background: no-repeat center center fixed;
+	background-size: cover;
+
+}
+
+.spacer {
+	padding: 5%;
+}
+
+.jumbotron {
+	width: 50%;
+	margin-left: auto;
+	margin-right: auto;
+	background-color: black !important;
+	opacity: .7 !important;
+	border-radius: 15px;
+	
+}
